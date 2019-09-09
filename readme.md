@@ -1,7 +1,7 @@
 
 ## MIDI usb host
 
-Allows connection between my MPKmini Play with Novation Circuit or Korg's Kaossilator Pro+.
+Allows connection between my MPKmini Play with Novation Circuit or Korg's Kaossilator Pro+. Based on [python-rtmidi](https://github.com/SpotlightKid/python-rtmidi) filter example.
 
 - main platform - rPi2  + TFT with 4 buttons
 - all in text mode
