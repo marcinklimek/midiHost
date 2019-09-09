@@ -21,3 +21,7 @@ Connections diagram:
 - [mido](https://mido.readthedocs.io/en/latest/backends/index.html)
 - [midihub](https://blokas.io/midihub/)
 - [mod-host](https://github.com/BlokasLabs/mod-host)
+
+### Licence 
+
+GNU General Public Licence v3
