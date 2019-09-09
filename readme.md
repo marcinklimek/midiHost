@@ -10,10 +10,15 @@ Allows connection between my MPKmini Play with Novation Circuit or Korg's Kaossi
   - conversion from note to XY
   - X is taken from note, Y from knob on MPK
 
-Connections diagram:
+###Connections diagram:
 
-![Connections](sch-connection.png) 
+![Connections](img/sch-connection.png)
 
+
+### Setup
+
+![User interface :)](img/IMG_20190909_142333.jpg)
+![Equipment](img/IMG_20190909_142402.jpg)
 
 ### References
 

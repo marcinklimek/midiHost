@@ -11,4 +11,4 @@ Allows connection between my MPKmini Play with Novation Circuit or Korg's Kaossi
 
 Connections diagram:
 
-![Connections](sch-connection.png)
+![Connections](img/sch-connection.png)
